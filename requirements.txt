@@ -1,0 +1,4 @@
+PyQt5==5.15.10
+opencv-python==4.10.0.84
+openai==1.51.2
+python-dotenv==1.0.1
